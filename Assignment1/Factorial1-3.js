@@ -1,4 +1,4 @@
-let numBer = 21
+let numBer = 11
 
 //Find factorial of any whole number
 
